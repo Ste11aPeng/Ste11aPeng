@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Stella Peng
+🎨 Designer | 📱 Content Creator | 🚀 UX Explorer
 
-<!--
-**Ste11aPeng/Ste11aPeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Design Student at the University of Michigan. <br/> where I juggle UX design, entrepreneurship, and a love for storytelling.
+<br/> 
+🔹 What I do:
+<br/> 
+UX/UI Design – Crafting seamless digital experiences <br/> 
+Web & Product Design – Bridging creativity with functionality <br/> 
+Prototyping & User Research – Turning ideas into user-friendly solutions <br/> 
+Content Creation – Experimenting with digital storytelling & social media<br/> 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
