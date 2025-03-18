@@ -1,7 +1,7 @@
 ## Hi, I'm Stella (Ruocan) Peng ✨
-🎐 Designer | 🦦 Content Creator | 🤎 UX Explorer
+🎐 Designer | 🦦 Content Creator | 🤎 UX Explorer 
 
-I'm a Design Student at the University of Michigan, where I juggle UX design, entrepreneurship, and a love for storytelling.
+I'm a design student at the University of Michigan, where I juggle UX design, entrepreneurship, and a love for storytelling.
  <br/> 
 - Check out my deign on my [portfolio](https://ruocanpeng.com/) <br/> 
 - Don't be a stranger, let's chat on [LinkedIn](https://www.linkedin.com/in/stellapengrnr/) <br/> 
