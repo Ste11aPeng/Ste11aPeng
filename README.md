@@ -1,8 +1,7 @@
 ## Hi, I'm Stella (Ruocan) Peng ✨
-🎐 Designer 
-Hi, I’m Stella — designer, sometimes coder.
+Hi, I’m Stella, a designer, sometimes coder.
 Working on product and AI things.
-
+ <br/> 
 UMich alum,
 incoming MHCI+D at UW.
  <br/> 
