@@ -1,4 +1,4 @@
-## Hi, I'm Stella (Ruocan) Peng
+# Hi, I'm Stella (Ruocan) Peng
 A designer, sometimes coder.
 Working on product and AI things.
  <br/> 
@@ -10,7 +10,7 @@ incoming MHCI+D at UW.
 
 
 
-## Socials:
+# Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ste11a505c) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ste11acc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stellapengrnr) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stellanotfound) 
 
 # Tech Stack:
